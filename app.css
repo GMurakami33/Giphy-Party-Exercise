@@ -1,0 +1,45 @@
+* {
+  background-color: rgb(25, 24, 24);
+  box-sizing: border-box;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+#container {
+  width: 500px;
+  margin: 0 auto; 
+}
+
+#submit {
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 10%;
+  margin-right: 10px;
+}
+
+#remove {
+  background-color: rgb(244, 50, 50);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10%;
+}
+
+#submission {
+  background-color: grey;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 10%;
+  margin-right: 10px;
+}
+
+ul {
+  max-width: 100%;
+  width: 500px;
+}
+
+li {
+  width: 70%;
+}
